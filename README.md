@@ -1,2 +1,2 @@
 # energycdmx
-Codes to analyze energy in Mexico City
+Codes for energy analysis in Mexico City
